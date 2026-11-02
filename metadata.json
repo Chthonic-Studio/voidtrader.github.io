@@ -1,0 +1,6 @@
+{
+  "name": "VoidTrader - Warframe Market & Ducat Terminal",
+  "description": "Real-time Warframe Market tracking, Ducats vs Platinum optimizer, live Void Fissure tracker with relic drop profit analysis, and market trend timelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
